@@ -1,5 +1,5 @@
 {
-  "name": "stikerinbot",
+  "name": "Doraemond",
   "version": "1.1.2",
   "description": "WhatsApp Bot Ringan",
   "main": "index.js",
@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ariffb25/stikerinbot.git"
+    "url": "git+https://https://github.com/Dora-emond/dora10.git"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Ariffb",
+  "author": "yoga ganz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ariffb25/stikerinbot/issues"
+    "url": "https://https://github.com/Dora-emond/dora10/issues"
   },
-  "homepage": "https://github.com/ariffb25/stikerinbot",
+  "homepage": "https://https://github.com/Dora-emond/dora10",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "awesome-phonenumber": "^2.54.0",

@@ -33,7 +33,7 @@ handler.all = async function (m, { isBlocked }) {
 └────
 
 Hubungi owner bot ya kak :D
-`.trim(), '© stikerin', 'Pemilik Bot', ',owner', m)
+`.trim(), '© Doraemond', 'Pemilik Bot', ',owner', m)
     }
 
     // salam

@@ -15,6 +15,7 @@ global.APIs = { // API Prefix
   zahir: 'https://zahirr-web.herokuapp.com',
   zekais: 'http://zekais-api.herokuapp.com',
   zeks: 'https://api.zeks.xyz',
+  LeysCoder: 'https://leyscoders-api.herokuapp.com',
 }
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'

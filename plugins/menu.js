@@ -199,99 +199,99 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             {
               "rows": [
                 {
-                  "title": `Semua Perintah`,
-                  "description": "",
-                  "rowId": `${_p}? all`
+                  "title": `📜 ㋛ Semua Perintah`,
+                  "description": "Menampilkan semua perintah bot",
+                  "rowId": ".? all"
                 }, {
-                  "title": "Game",
-                  "description": "",
-                  "rowId": `${_p}? game`
+                  "title": "🎮 ㋛ game",
+                  "description": "All game",
+                  "rowId": ".? game"
 
                 }, {
-                  "title": "XP",
-                  "description": "",
-                  "rowId": `${_p}? xp`
+                  "title": "💳 ㋛ XP",
+                  "description": "XP pemakain Bot",
+                  "rowId": ".? xp"
 
                 }, {
-                  "title": "Stiker",
-                  "description": "",
-                  "rowId": `${_p}? stiker`
+                  "title": "🖼 ㋛ Stiker",
+                  "description": "maker stiker",
+                  "rowId": ".? stiker"
                 }, {
-                  "title": "Kerang Ajaib",
-                  "description": "",
-                  "rowId": `${_p}? kerangajaib`
+                  "title": "🐚 ㋛ Kerang Ajaib",
+                  "description": "Ask something question",
+                  "rowId": ".? kerangajaib"
                 }, {
-                  "title": "Quotes",
-                  "description": "",
-                  "rowId": `${_p}? quotes`
+                  "title": "📝 ㋛ Quotes",
+                  "description": "Kata-kata bijak",
+                  "rowId": ".? quotes"
                 }, {
-                  "title": "Admin",
-                  "description": "",
-                  "rowId": `${_p}? admin`
+                  "title": "🕴 ㋛ Admin",
+                  "description": "Para elite tapi bukan mastah ㋛",
+                  "rowId": ".? admin"
                 }, {
-                  "title": "Grup",
-                  "description": "",
-                  "rowId": `${_p}? grup`
+                  "title": "👥 ㋛ Grup",
+                  "description": "Using di Grup doang anjir",
+                  "rowId": ".? grup"
                 }, {
-                  "title": "Premium",
-                  "description": "",
-                  "rowId": `${_p}? premium`
+                  "title": "💎 ㋛ Premium",
+                  "description": "wow para elite ⚡",
+                  "rowId": ".? premium"
                 }, {
-                  "title": "Internet",
-                  "description": "",
-                  "rowId": `${_p}? internet`
+                  "title": "📡 ㋛ Internet",
+                  "description": "expression your u want",
+                  "rowId": ".? internet"
                 }, {
-                  "title": "Anonymous",
-                  "description": "",
-                  "rowId": `${_p}? anonymous`
+                  "title": "❓ ㋛ Anonymous",
+                  "description": "hacker anjir 😱",
+                  "rowId": ".? anonymous"
                 }, {
-                  "title": "Nulis & Logo",
-                  "description": "",
-                  "rowId": `${_p}? nulis`
+                  "title": "✏ ㋛ Nulis & Logo",
+                  "description": "Make a tulisan",
+                  "rowId": ".? nulis"
                 }, {
-                  "title": "Downloader",
-                  "description": "",
-                  "rowId": `${_p}? downloader`
+                  "title": "📥 ㋛ Downloader",
+                  "description": "Mengunduh ",
+                  "rowId": ".? downloader"
                 }, {
-                  "title": "Tools",
-                  "description": "",
-                  "rowId": `${_p}? tools`
+                  "title": "🛠 ㋛ Tools",
+                  "description": "Reparations",
+                  "rowId": ".? tools"
                 }, {
-                  "title": "Fun",
-                  "description": "",
-                  "rowId": `${_p}? fun`
+                  "title": "😋 ㋛ Fun ",
+                  "description": "Bebas ngapain aja",
+                  "rowId": ".? fun"
                 }, {
-                  "title": "Database",
-                  "description": "",
-                  "rowId": `${_p}? database`
+                  "title": "🗂 ㋛ Database",
+                  "description": "Data base bot",
+                  "rowId": ".? database"
                 }, {
-                  "title": "Vote & Absen",
-                  "description": "",
-                  "rowId": `${_p}? vote`
+                  "title": "☑ ㋛ vote & Absen",
+                  "description": "isi absen dulu anjir",
+                  "rowId": ".? vote"
                 }, {
-                  "title": "Al-Qur\'an",
-                  "description": "",
-                  "rowId": `${_p}? quran`
+                  "title": "😊😇 Al-Qur\'an",
+                  "description": "Mengaji",
+                  "rowId": ".? quran"
                 }, {
-                  "title": "Pengubah Suara",
-                  "description": "",
-                  "rowId": `${_p}? audio`
+                  "title": "〰🎵 ㋛ Pengubah Suara",
+                  "description": "Manipulation your voice",
+                  "rowId": ".? audio"
                 }, {
-                  "title": "Jadi Bot",
-                  "description": "",
-                  "rowId": `${_p}? jadibot`
+                  "title": "🗿 ㋛ Jadi Bot",
+                  "description": "Jangan di pake cape gua ",
+                  "rowId": ".? jadibot"
                 }, {
-                  "title": "Info",
-                  "description": "",
-                  "rowId": `${_p}? info`
+                  "title": "ℹℹ ㋛ info",
+                  "description": "information ",
+                  "rowId": ".? info"
                 }, {
-                  "title": "Tanpa Kategori",
-                  "description": "",
-                  "rowId": `${_p}? tanpakategori`
+                  "title": "⁉ ㋛ Tanpa Kategori",
+                  "description": "serah lu mau ngapain anjir",
+                  "rowId": ".? tanpakategori"
                 }, {
-                  "title": "Owner",
-                  "description": "",
-                  "rowId": `${_p}? owner`
+                  "title": "👺 ㋛ Owner",
+                  "description": "Menu mastah",
+                  "rowId": ".? owner"
                 }
               ]
             }

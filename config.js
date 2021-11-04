@@ -26,6 +26,7 @@ global.APIKeys = { // APIKey nya disini
   'https://api.xteam.xyz': 'seventszid123',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'apivinz',
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
 }
 
 // Sticker WM
